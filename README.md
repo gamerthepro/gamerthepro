@@ -1,6 +1,6 @@
 [![Header](https://github.com/gamerthepro/gamerthepro/blob/main/Image/img.jpg)](https://www.youtube.com/channel/UCViuD468TFUrsmsyoVphOLQ)
 
-## I'm a Frontend Developer
+## Я начинаюший Frontend Developer
 
 ### Языки и инструменты:
 
@@ -18,7 +18,7 @@
 
 <br/>
 
-### Follow Me:
+### Контакты:
 [![YouTube](https://img.shields.io/badge/-YouTube-090909?style=for-the-badge&logo=YouTube&logoColor=FF0000)](https://www.youtube.com/channel/UCViuD468TFUrsmsyoVphOLQ)
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://web.telegram.org/#/im)
 [![Instagram](https://img.shields.io/badge/-Instagram-090909?style=for-the-badge&logo=instagram&logoColor=B4068E)](https://www.instagram.com/?hl=ru)
