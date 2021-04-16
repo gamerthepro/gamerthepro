@@ -2,4 +2,4 @@
 
 ## I'm a Frontend Developer
 
-![JavsScript](https://img.shields.io/badge/-JavsScript-#689CD2?style=for-the-badge&logo=JavsScript&logocolor-#ff6c39)
+![JavaScript](https://img.shields.io/badge/-JavaScript-#689CD2?style=for-the-badge&logo-JavaScript&logocolor-#ff6c39)
