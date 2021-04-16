@@ -7,12 +7,7 @@
 - :rocket: Слежу за технологиями
 - :soccer: Люблю активный отдых
 
-### Мои проекты:
-[![how-to-learn](https://img.shields.io/badge/-how_to_learn-d2e7fb)](https://gamerthepro.github.io/how-to-learn/)
-[![20-challenge-team-darkviolet](https://img.shields.io/badge/-20_challenge_team_darkviolet-d2e7fb)](https://gamerthepro.github.io/20-challenge-team-darkviolet/)
-[![russian-travel](https://img.shields.io/badge/-russian_travel-d2e7fb)](https://gamerthepro.github.io/russian-travel/)
-[![mesto](https://img.shields.io/badge/-mesto-d2e7fb)](https://gamerthepro.github.io/mesto/)
-[![mesto-react](https://img.shields.io/badge/-mesto_react-d2e7fb)](https://gamerthepro.github.io/mesto-react/)
+<br/>
 
 ### Языки и инструменты:
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
@@ -26,6 +21,15 @@
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+
+<br/>
+
+### Мои проекты:
+[![how-to-learn](https://img.shields.io/badge/-how_to_learn-d2e7fb)](https://gamerthepro.github.io/how-to-learn/)
+[![20-challenge-team-darkviolet](https://img.shields.io/badge/-20_challenge_team_darkviolet-d2e7fb)](https://gamerthepro.github.io/20-challenge-team-darkviolet/)
+[![russian-travel](https://img.shields.io/badge/-russian_travel-d2e7fb)](https://gamerthepro.github.io/russian-travel/)
+[![mesto](https://img.shields.io/badge/-mesto-d2e7fb)](https://gamerthepro.github.io/mesto/)
+[![mesto-react](https://img.shields.io/badge/-mesto_react-d2e7fb)](https://gamerthepro.github.io/mesto-react/)
 
 <br/>
 
