@@ -1,14 +1,16 @@
 [![Header](https://github.com/gamerthepro/gamerthepro/blob/main/Image/img.jpg)](https://www.youtube.com/channel/UCViuD468TFUrsmsyoVphOLQ)
 
-## Hello world! Я начинаюший Frontend Developer
+## Hello world:v: Я начинаюший Frontend Developer
 - 💪 Люблю писать код
 - :neckbeard: Нравиться общаться с умными людьми
 - :mortar_board: Нравиться учиться и рости как специалист
 - :rocket: Слежу за технологиями
 - :soccer: Люблю активный отдых
 
-### Языки и инструменты:
+### Мои проекты:
+[![how-to-learn](https://img.shields.io/badge/-how-to-learn-090909)](https://gamerthepro.github.io/how-to-learn/)
 
+### Языки и инструменты:
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="HTML5" width="26px" src="./Image/html.svg" />
 <img align="left" alt="CSS3" width="26px" src="./Image/css.svg" />
