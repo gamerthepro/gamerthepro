@@ -28,5 +28,4 @@
 [![Gmail](https://img.shields.io/badge/-@Gmail.com-090909?style=for-the-badge&logo=Gmail&logoColor=fe4611)](https://mail.google.com/mail/u/0/#inbox)
 
 ### Статистика:
-<img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gamerthepro&langs_count=8&layout=compact" />
-<img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=gamerthepro&show_icons=true" />
+<img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gamerthepro&langs_count=8&layout=compact" /><img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=gamerthepro&show_icons=true" />
