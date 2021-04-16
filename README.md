@@ -1,6 +1,7 @@
 [![Header](https://github.com/gamerthepro/gamerthepro/blob/main/Image/img.jpg)](https://www.youtube.com/channel/UCViuD468TFUrsmsyoVphOLQ)
 
 ## Hello world:v: Я начинаюший Frontend Developer
+![](https://komarev.com/ghpvc/?username=gamerthepro)
 - 💪 Люблю писать код
 - :neckbeard: Нравиться общаться с умными людьми
 - :mortar_board: Нравиться учиться и рости как специалист
