@@ -9,17 +9,17 @@
 - :soccer: Люблю активный отдых
 
 ### Языки и инструменты:
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="HTML5" width="26px" src="./Image/html.svg" />
-<img align="left" alt="CSS3" width="26px" src="./Image/css.svg" />
-<img align="left" alt="JavaScript" width="26px" src="./Image/jsb.svg" />
-<img align="left" alt="TypeScript" width="26px" src="./Image/tsb.svg" />
-<img align="left" alt="React" width="26px" src="./Image/react.svg" />
-<img align="left" alt="Angular" width="26px" src="./Image/angular.svg" />
-<img align="left" alt="Node.js" width="26px" src="./Image/nodejs.svg" />
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+[![Visual_Studio_Code](https://img.shields.io/badge/-Visual_Studio_Code-d2e7fb?style=for-the-badge&logo=visual-studio-code&logoColor=27A0D9&labelColor=626262)](https://code.visualstudio.com/)
+[![HTML5](https://img.shields.io/badge/-HTML5-d2e7fb?style=for-the-badge&logo=HTML5&logoColor=fe4611&labelColor=626262)](https://ru.wikipedia.org/wiki/HTML5)
+[![CSS3](https://img.shields.io/badge/-CSS3-d2e7fb?style=for-the-badge&logo=CSS3&logoColor=27A0D9&labelColor=626262)](https://ru.wikipedia.org/wiki/CSS)
+[![JavaScript](https://img.shields.io/badge/-JavaScript-d2e7fb?style=for-the-badge&logo=JavaScript&labelColor=626262)](https://ru.wikipedia.org/wiki/JavaScript)
+[![TypeScript](https://img.shields.io/badge/-TypeScript-d2e7fb?style=for-the-badge&logo=TypeScript&labelColor=626262)](https://www.typescriptlang.org/)
+[![React](https://img.shields.io/badge/-React-d2e7fb?style=for-the-badge&logo=React&labelColor=626262)](https://ru.reactjs.org/)
+[![Angular](https://img.shields.io/badge/-Angular-d2e7fb?style=for-the-badge&logo=Angular&logoColor=fe4611&labelColor=626262)](https://angular.io/)
+[![Node.js](https://img.shields.io/badge/-Node.js-d2e7fb?style=for-the-badge&logo=Node.js&labelColor=626262)](https://nodejs.org/en/)
+[![Git](https://img.shields.io/badge/-Git-d2e7fb?style=for-the-badge&logo=Git&labelColor=626262)](https://git-scm.com/)
+[![GitHub](https://img.shields.io/badge/-GitHub-d2e7fb?style=for-the-badge&logo=GitHub&logoColor=191919&labelColor=626262)](https://github.com/)
+[![Terminal](https://img.shields.io/badge/-Terminal-d2e7fb?style=for-the-badge&logo=windows-terminal&labelColor=626262)](https://docs.microsoft.com/ru-ru/windows/terminal/)
 <br/>
 
 ### Мои проекты:
