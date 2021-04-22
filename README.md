@@ -9,25 +9,25 @@
 - :soccer: Люблю активный отдых
 
 ### Языки и инструменты:
-[![Visual_Studio_Code](https://img.shields.io/badge/-Visual_Studio_Code-d2e7fb?style=for-the-badge&logo=visual-studio-code&logoColor=27A0D9&labelColor=626262)](https://code.visualstudio.com/)
-[![HTML5](https://img.shields.io/badge/-HTML5-d2e7fb?style=for-the-badge&logo=HTML5&logoColor=fe4611&labelColor=626262)](https://ru.wikipedia.org/wiki/HTML5)
-[![CSS3](https://img.shields.io/badge/-CSS3-d2e7fb?style=for-the-badge&logo=CSS3&logoColor=27A0D9&labelColor=626262)](https://ru.wikipedia.org/wiki/CSS)
-[![JavaScript](https://img.shields.io/badge/-JavaScript-d2e7fb?style=for-the-badge&logo=JavaScript&labelColor=626262)](https://ru.wikipedia.org/wiki/JavaScript)
-[![TypeScript](https://img.shields.io/badge/-TypeScript-d2e7fb?style=for-the-badge&logo=TypeScript&labelColor=626262)](https://www.typescriptlang.org/)
-[![React](https://img.shields.io/badge/-React-d2e7fb?style=for-the-badge&logo=React&labelColor=626262)](https://ru.reactjs.org/)
-[![Angular](https://img.shields.io/badge/-Angular-d2e7fb?style=for-the-badge&logo=Angular&logoColor=fe4611&labelColor=626262)](https://angular.io/)
-[![Node.js](https://img.shields.io/badge/-Node.js-d2e7fb?style=for-the-badge&logo=Node.js&labelColor=626262)](https://nodejs.org/en/)
-[![Git](https://img.shields.io/badge/-Git-d2e7fb?style=for-the-badge&logo=Git&labelColor=626262)](https://git-scm.com/)
-[![GitHub](https://img.shields.io/badge/-GitHub-d2e7fb?style=for-the-badge&logo=GitHub&logoColor=191919&labelColor=626262)](https://github.com/)
-[![Terminal](https://img.shields.io/badge/-Terminal-d2e7fb?style=for-the-badge&logo=windows-terminal&labelColor=626262)](https://docs.microsoft.com/ru-ru/windows/terminal/)
+[![Visual_Studio_Code](https://img.shields.io/badge/-Visual_Studio_Code-d2e7fb?style=flat&logo=visual-studio-code&logoColor=27A0D9&labelColor=626262)](https://code.visualstudio.com/)
+[![HTML5](https://img.shields.io/badge/-HTML5-d2e7fb?style=flat&logo=HTML5&logoColor=fe4611&labelColor=626262)](https://ru.wikipedia.org/wiki/HTML5)
+[![CSS3](https://img.shields.io/badge/-CSS3-d2e7fb?style=flat&logo=CSS3&logoColor=27A0D9&labelColor=626262)](https://ru.wikipedia.org/wiki/CSS)
+[![JavaScript](https://img.shields.io/badge/-JavaScript-d2e7fb?style=flat&logo=JavaScript&labelColor=626262)](https://ru.wikipedia.org/wiki/JavaScript)
+[![TypeScript](https://img.shields.io/badge/-TypeScript-d2e7fb?style=flat&logo=TypeScript&labelColor=626262)](https://www.typescriptlang.org/)
+[![React](https://img.shields.io/badge/-React-d2e7fb?style=flat&logo=React&labelColor=626262)](https://ru.reactjs.org/)
+[![Angular](https://img.shields.io/badge/-Angular-d2e7fb?style=flat&logo=Angular&logoColor=fe4611&labelColor=626262)](https://angular.io/)
+[![Node.js](https://img.shields.io/badge/-Node.js-d2e7fb?style=flat&logo=Node.js&labelColor=626262)](https://nodejs.org/en/)
+[![Git](https://img.shields.io/badge/-Git-d2e7fb?style=flat&logo=Git&labelColor=626262)](https://git-scm.com/)
+[![GitHub](https://img.shields.io/badge/-GitHub-d2e7fb?style=flat&logo=GitHub&logoColor=191919&labelColor=626262)](https://github.com/)
+[![Terminal](https://img.shields.io/badge/-Terminal-d2e7fb?style=flat&logo=windows-terminal&labelColor=626262)](https://docs.microsoft.com/ru-ru/windows/terminal/)
 <br/>
 
 ### Мои проекты:
-[![how-to-learn](https://img.shields.io/badge/-how_to_learn-d2e7fb)](https://gamerthepro.github.io/how-to-learn/)
-[![20-challenge-team-darkviolet](https://img.shields.io/badge/-20_challenge_team_darkviolet-d2e7fb)](https://gamerthepro.github.io/20-challenge-team-darkviolet/)
-[![russian-travel](https://img.shields.io/badge/-russian_travel-d2e7fb)](https://gamerthepro.github.io/russian-travel/)
-[![mesto](https://img.shields.io/badge/-mesto-d2e7fb)](https://gamerthepro.github.io/mesto/)
-[![mesto-react](https://img.shields.io/badge/-mesto_react-d2e7fb)](https://gamerthepro.github.io/mesto-react/)
+[![how-to-learn](https://img.shields.io/badge/-how_to_learn-d2e7fb?style=flat-square)](https://gamerthepro.github.io/how-to-learn/)
+[![20-challenge-team-darkviolet](https://img.shields.io/badge/-20_challenge_team_darkviolet-d2e7fb?style=flat-square)](https://gamerthepro.github.io/20-challenge-team-darkviolet/)
+[![russian-travel](https://img.shields.io/badge/-russian_travel-d2e7fb?style=flat-square)](https://gamerthepro.github.io/russian-travel/)
+[![mesto](https://img.shields.io/badge/-mesto-d2e7fb?style=flat-square)](https://gamerthepro.github.io/mesto/)
+[![mesto-react](https://img.shields.io/badge/-mesto_react-d2e7fb?style=flat-square)](https://gamerthepro.github.io/mesto-react/)
 
 ### Контакты:
 [![YouTube](https://img.shields.io/badge/-YouTube-d2e7fb?style=for-the-badge&logo=YouTube&logoColor=FF0000)](https://www.youtube.com/channel/UCViuD468TFUrsmsyoVphOLQ)
