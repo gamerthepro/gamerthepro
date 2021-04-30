@@ -29,7 +29,7 @@
 [![russian-travel](https://img.shields.io/badge/-russian_travel-d2e7fb?style=for-the-badge)](https://gamerthepro.github.io/russian-travel/)
 [![mesto](https://img.shields.io/badge/-mesto-d2e7fb?style=for-the-badge)](https://gamerthepro.github.io/mesto/)
 [![mesto-react](https://img.shields.io/badge/-mesto_react-d2e7fb?style=for-the-badge)](https://gamerthepro.github.io/mesto-react/)
-[![book-search](https://img.shields.io/badge/-mesto_react-d2e7fb?style=for-the-badge)](https://gamerthepro.github.io/book-search/)
+[![book-search](https://img.shields.io/badge/-book-search-d2e7fb?style=for-the-badge)](https://gamerthepro.github.io/book-search/)
 
 ### Контакты:
 [![YouTube](https://img.shields.io/badge/-YouTube-d2e7fb?style=for-the-badge&logo=YouTube&logoColor=FF0000)](https://www.youtube.com/channel/UCViuD468TFUrsmsyoVphOLQ)
