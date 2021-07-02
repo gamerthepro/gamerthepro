@@ -15,12 +15,12 @@
 [![JavaScript](https://img.shields.io/badge/-JavaScript-d2e7fb?style=flat&logo=JavaScript&labelColor=626262)](https://ru.wikipedia.org/wiki/JavaScript)
 [![TypeScript](https://img.shields.io/badge/-TypeScript-d2e7fb?style=flat&logo=TypeScript&labelColor=626262)](https://www.typescriptlang.org/)
 [![React](https://img.shields.io/badge/-React-d2e7fb?style=flat&logo=React&labelColor=626262)](https://ru.reactjs.org/)
-[![Angular](https://img.shields.io/badge/-Angular-d2e7fb?style=flat&logo=Angular&logoColor=fe4611&labelColor=626262)](https://angular.io/)
 [![Node.js](https://img.shields.io/badge/-Node.js-d2e7fb?style=flat&logo=Node.js&labelColor=626262)](https://nodejs.org/en/)
 [![Git](https://img.shields.io/badge/-Git-d2e7fb?style=flat&logo=Git&labelColor=626262)](https://git-scm.com/)
 [![GitHub](https://img.shields.io/badge/-GitHub-d2e7fb?style=flat&logo=GitHub&logoColor=191919&labelColor=626262)](https://github.com/)
 [![Terminal](https://img.shields.io/badge/-Terminal-d2e7fb?style=flat&logo=windows-terminal&labelColor=626262)](https://docs.microsoft.com/ru-ru/windows/terminal/)
 [![Mongodb](https://img.shields.io/badge/-Mongodb-d2e7fb?style=flat&logo=Mongodb&labelColor=626262)](https://www.mongodb.com/)
+[![Postman](https://img.shields.io/badge/-Postman-d2e7fb?style=flat&logo=Postman&labelColor=626262)](https://www.Postman.com/)
 <br/>
 
 ### Мои проекты:
