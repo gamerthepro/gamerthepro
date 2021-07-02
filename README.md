@@ -10,6 +10,7 @@
 
 ### Языки и инструменты:
 [![Visual_Studio_Code](https://img.shields.io/badge/-Visual_Studio_Code-d2e7fb?style=flat&logo=visual-studio-code&logoColor=27A0D9&labelColor=626262)](https://code.visualstudio.com/)
+[![PerfectPixel](https://img.shields.io/badge/-PerfectPixel-d2e7fb?style=flat&logo=&logoColor=fe4611&labelColor=742)](https://www.welldonecode.com/perfectpixel/)
 [![HTML5](https://img.shields.io/badge/-HTML5-d2e7fb?style=flat&logo=HTML5&logoColor=fe4611&labelColor=626262)](https://ru.wikipedia.org/wiki/HTML5)
 [![CSS3](https://img.shields.io/badge/-CSS3-d2e7fb?style=flat&logo=CSS3&logoColor=27A0D9&labelColor=626262)](https://ru.wikipedia.org/wiki/CSS)
 [![JavaScript](https://img.shields.io/badge/-JavaScript-d2e7fb?style=flat&logo=JavaScript&labelColor=626262)](https://ru.wikipedia.org/wiki/JavaScript)
