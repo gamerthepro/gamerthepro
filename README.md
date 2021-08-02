@@ -25,13 +25,13 @@
 <br/>
 
 ### Мои проекты:
-[![how-to-learn](https://img.shields.io/badge/-how_to_learn-d2e7fb?style=for-the-badge)](https://gamerthepro.github.io/how-to-learn/)
-[![20-challenge-team-darkviolet](https://img.shields.io/badge/-20_challenge_team_darkviolet-d2e7fb?style=for-the-badge)](https://gamerthepro.github.io/20-challenge-team-darkviolet/)
-[![russian-travel](https://img.shields.io/badge/-russian_travel-d2e7fb?style=for-the-badge)](https://gamerthepro.github.io/russian-travel/)
-[![mesto](https://img.shields.io/badge/-mesto-d2e7fb?style=for-the-badge)](https://gamerthepro.github.io/mesto/)
-[![mesto-react](https://img.shields.io/badge/-mesto_react-d2e7fb?style=for-the-badge)](https://gamerthepro.github.io/mesto-react/)
+[![how-to-learn](https://img.shields.io/badge/-how_to_learn-d2e7fb?style=for-the-badge)](https://github.com/gamerthepro/how-to-learn)
+[![20-challenge-team-darkviolet](https://img.shields.io/badge/-20_challenge_team_darkviolet-d2e7fb?style=for-the-badge)](https://github.com/gamerthepro/20-challenge-team-darkviolet)
+[![russian-travel](https://img.shields.io/badge/-russian_travel-d2e7fb?style=for-the-badge)](https://github.com/gamerthepro/russian-travel)
+[![mesto](https://img.shields.io/badge/-mesto-d2e7fb?style=for-the-badge)](https://github.com/gamerthepro/mesto)
+[![mesto-react](https://img.shields.io/badge/-mesto_react-d2e7fb?style=for-the-badge)](https://github.com/gamerthepro/mesto-react)
 [![react-mesto-api-full](https://img.shields.io/badge/-react_mesto_api_full-d2e7fb?style=for-the-badge)](https://github.com/gamerthepro/react-mesto-api-full)
-[![book-search](https://img.shields.io/badge/-book_search-d2e7fb?style=for-the-badge)](https://gamerthepro.github.io/book-search/)
+[![book-search](https://img.shields.io/badge/-book_search-d2e7fb?style=for-the-badge)](https://github.com/gamerthepro/book-search)
 
 ### Контакты:
 [![YouTube](https://img.shields.io/badge/-YouTube-d2e7fb?style=for-the-badge&logo=YouTube&logoColor=FF0000)](https://www.youtube.com/channel/UCViuD468TFUrsmsyoVphOLQ)
