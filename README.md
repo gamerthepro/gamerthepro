@@ -33,6 +33,7 @@
 [![react-mesto-api-full](https://img.shields.io/badge/-react_mesto_api_full-d2e7fb?style=for-the-badge)](https://github.com/gamerthepro/react-mesto-api-full)
 [![book-search](https://img.shields.io/badge/-book_search-d2e7fb?style=for-the-badge)](https://github.com/gamerthepro/book-search)
 [![Test_ABC_Mobile](https://img.shields.io/badge/-Test_ABC_Mobile-d2e7fb?style=for-the-badge)](https://github.com/gamerthepro/Test_ABC_Mobile)
+[![Movies](https://img.shields.io/badge/-Movies-d2e7fb?style=for-the-badge)](https://github.com/gamerthepro/movies-explorer-frontend)
 
 ### Контакты:
 [![YouTube](https://img.shields.io/badge/-YouTube-d2e7fb?style=for-the-badge&logo=YouTube&logoColor=FF0000)](https://www.youtube.com/channel/UCViuD468TFUrsmsyoVphOLQ)
